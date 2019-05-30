@@ -10,4 +10,5 @@ def second_challenge
 
   one_array = groceries.values
   one_array.flatten
+  
 end
